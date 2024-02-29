@@ -1,3 +1,3 @@
-# CS-2110
+# CS 2110
 
-CS 2110 Course homework
+This is the course work for my CS 2110 course 
